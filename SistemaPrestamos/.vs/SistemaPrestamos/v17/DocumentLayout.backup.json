@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\tasainterescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\tasainterescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\estadopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\estadopagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\reportescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\estadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\estadopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\tasainteres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\tasainteres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|c:\\users\\gmadr\\source\\repos\\sistemaprestamos\\sistemaprestamos\\models\\calendariopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE3E139-3A3B-471E-80D6-D38258C490F6}|SistemaPrestamos\\SistemaPrestamos.csproj|solutionrelative:sistemaprestamos\\models\\calendariopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadoPagoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\EstadoPagoController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\EstadoPagoController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\EstadoPagoController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\EstadoPagoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:21:51.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:52:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:38:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\ReportesController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\ReportesController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\ReportesController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\ReportesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:30:37.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasaInteresController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\TasaInteresController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\TasaInteresController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\TasaInteresController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\TasaInteresController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:28:03.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:20:12.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAewJYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:11:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAWwB0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:52:24.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Cliente.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:09:29.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:20:50.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasaInteres.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\TasaInteres.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\TasaInteres.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\TasaInteres.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\TasaInteres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:28:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\appsettings.json",
+              "RelativeToolTip": "SistemaPrestamos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T09:32:27.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EstadoPago.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\EstadoPago.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\EstadoPago.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\EstadoPago.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\EstadoPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:57:47.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Program.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Program.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:15:30.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Reportes.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\Reportes.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Reportes.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\Reportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:32:21.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\appsettings.Development.json",
+              "RelativeToolTip": "SistemaPrestamos\\appsettings.Development.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T05:03:52.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Login.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T01:21:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Pago.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:41:01.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CalendarioPago.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\CalendarioPago.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\CalendarioPago.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\CalendarioPago.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\CalendarioPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:33:22.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Prestamo.cs",
+              "RelativeDocumentMoniker": "SistemaPrestamos\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Gmadr\\source\\repos\\SistemaPrestamos\\SistemaPrestamos\\Models\\Prestamo.cs",
+              "RelativeToolTip": "SistemaPrestamos\\Models\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:36:24.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

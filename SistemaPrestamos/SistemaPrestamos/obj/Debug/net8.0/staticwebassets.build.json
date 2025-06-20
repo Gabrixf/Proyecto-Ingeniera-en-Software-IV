@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "O9mJtJbSWwlpMZ5kMwKX8DfnInGb+QuwKr8aQiLRee0=",
+  "Source": "SistemaPrestamos",
+  "BasePath": "_content/SistemaPrestamos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

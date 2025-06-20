@@ -1,0 +1,482 @@
+[
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "SistemaPrestamos.Models.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ClientesController",
+    "Method": "AgregarCliente",
+    "RelativePath": "api/Clientes/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "SistemaPrestamos.Models.ClienteCrearDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ClientesController",
+    "Method": "ConsultarClientes",
+    "RelativePath": "api/Clientes/consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cedula",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ClientesController",
+    "Method": "EliminarCliente",
+    "RelativePath": "api/Clientes/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ClientesController",
+    "Method": "ModificarCliente",
+    "RelativePath": "api/Clientes/modificar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "SistemaPrestamos.Models.Cliente",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ClientesController",
+    "Method": "RegistrarClienteCompleto",
+    "RelativePath": "api/Clientes/registrar-completo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "SistemaPrestamos.Models.RegistroClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.EstadoPagoController",
+    "Method": "AgregarEstado",
+    "RelativePath": "api/EstadoPago/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estado",
+        "Type": "SistemaPrestamos.Models.EstadoPago",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.EstadoPagoController",
+    "Method": "ListarEstados",
+    "RelativePath": "api/EstadoPago/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PagosController",
+    "Method": "ConsultarPagos",
+    "RelativePath": "api/Pagos/consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "idPrestamo",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "desde",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "hasta",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PagosController",
+    "Method": "ObtenerPago",
+    "RelativePath": "api/Pagos/detalle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPago",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PagosController",
+    "Method": "EliminarPago",
+    "RelativePath": "api/Pagos/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPago",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PagosController",
+    "Method": "ModificarPago",
+    "RelativePath": "api/Pagos/modificar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pago",
+        "Type": "SistemaPrestamos.Models.Pago",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PagosController",
+    "Method": "RegistrarPago",
+    "RelativePath": "api/Pagos/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pago",
+        "Type": "SistemaPrestamos.Models.Pago",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "AgregarPrestamo",
+    "RelativePath": "api/Prestamos/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prestamo",
+        "Type": "SistemaPrestamos.Models.Prestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "ConsultarCalendario",
+    "RelativePath": "api/Prestamos/calendario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "ConsultarPrestamos",
+    "RelativePath": "api/Prestamos/consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "DetallePrestamo",
+    "RelativePath": "api/Prestamos/detalle",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "EliminarPrestamo",
+    "RelativePath": "api/Prestamos/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "GenerarCalendario",
+    "RelativePath": "api/Prestamos/generar-calendario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idPrestamo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.PrestamosController",
+    "Method": "ModificarPrestamo",
+    "RelativePath": "api/Prestamos/modificar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prestamo",
+        "Type": "SistemaPrestamos.Models.Prestamo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ReportesController",
+    "Method": "PagosAtrasados",
+    "RelativePath": "api/Reportes/pagos-atrasados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ReportesController",
+    "Method": "PrestamosActivos",
+    "RelativePath": "api/Reportes/prestamos-activos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.ReportesController",
+    "Method": "ResumenPagosPorCliente",
+    "RelativePath": "api/Reportes/resumen-pagos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.TasaInteresController",
+    "Method": "AgregarTasa",
+    "RelativePath": "api/TasaInteres/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tasa",
+        "Type": "SistemaPrestamos.Models.TasaInteres",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.TasaInteresController",
+    "Method": "EliminarTasa",
+    "RelativePath": "api/TasaInteres/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idTasa",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.TasaInteresController",
+    "Method": "ObtenerTasas",
+    "RelativePath": "api/TasaInteres/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.TasaInteresController",
+    "Method": "ModificarTasa",
+    "RelativePath": "api/TasaInteres/modificar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tasa",
+        "Type": "SistemaPrestamos.Models.TasaInteres",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.UsuariosController",
+    "Method": "AgregarUsuario",
+    "RelativePath": "api/Usuarios/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SistemaPrestamos.Models.UsuarioCrearDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.UsuariosController",
+    "Method": "EliminarUsuario",
+    "RelativePath": "api/Usuarios/eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.UsuariosController",
+    "Method": "ListarUsuarios",
+    "RelativePath": "api/Usuarios/listar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPrestamos.Controllers.UsuariosController",
+    "Method": "ModificarUsuario",
+    "RelativePath": "api/Usuarios/modificar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "SistemaPrestamos.Models.UsuarioModificarDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
